@@ -1,4 +1,4 @@
-# Youtube Search
+# Netflix clone
 
 ## Table of contents
 
@@ -16,8 +16,9 @@
 
 Users should be able to:
 
-- View the optimal layout for the site depending on their device's screen size
-- See the youtube recommendations according to the search content
+- See the list of popular, high rating, upcoming movies
+- Click any movie and get information about it on the main part
+- Click show trailer button and watch trailer of movie
 
 ### Screenshot
 
@@ -25,22 +26,19 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/HasanliLaman/youtube-search](https://github.com/HasanliLaman/youtube-search)
-- Live Site URL: [https://youtube-list.netlify.app/](https://youtube-list.netlify.app/)
+- Solution URL: [https://github.com/HasanliLaman/netflix-clone](https://github.com/HasanliLaman/netflix-clone)
+- Live Site URL: [https://lamanhasanli-netflix.netlify.app/](https://lamanhasanli-netflix.netlify.app/)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
-- Grid
-- Mobile-first workflow
 - Javascript
 - React
-- [API](https://developers.google.com/youtube/v3)
+- Styled-components
+- [API](https://developers.themoviedb.org/3/getting-started/introduction)
 
 ## Author
 
 - Github - [Laman Hasanli](https://github.com/HasanliLaman)
-- Frontend Mentor - [@HasanliLaman](https://www.frontendmentor.io/profile/HasanliLaman)
